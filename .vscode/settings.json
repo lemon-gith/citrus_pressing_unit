@@ -1,0 +1,5 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": false
+}
