@@ -11,14 +11,19 @@
 
 ## Testing
 
-
-
 ## Level 2: also dk
 
-## Challenge: Pipelining
+
+> Extension: Pipelining
+
+> Challenge: Add a data cache
+
+> Challenge 2: Mul/Div units
+
+> Challenge 3: Wishbone Bus for memory interface
 
 TODO:\
-1. b,zjh 
+1. 
 2. 
 3. 
 4. 
